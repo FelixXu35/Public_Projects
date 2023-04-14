@@ -18,6 +18,7 @@ Trotter-Suzuki decomposition formula is used.
 
 The time evolutions are shown below. (up: qiskit, down: Julia).
 
+![](./assets/image-20230414232303710-1510988.png | width=100)
 <img src="./assets/image-20230414232303710-1510988.png" alt="image-20230414232303710" style="zoom:67%;" /><img src="./assets/Screenshot 2023-04-14 at 23.34.34-1511699.png" alt="Screenshot 2023-04-14 at 23.34.34" style="zoom:2%;" />
 
 Please find the more details through the links: [↗️qiskit](./qiskit_evolution.ipynb ) and [↗️Julia](./Julia_evolution.ipynb).
