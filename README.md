@@ -16,7 +16,7 @@ In this project, Qiskit will be used, and the results will be compared with anal
 
 Trotter-Suzuki decomposition formula is used.
 
-The time evolutions are shown below. (left: qiskit, right: Julia).
+The time evolutions are shown below. (up: qiskit, down: Julia).
 
 <img src="./assets/image-20230414232303710-1510988.png" alt="image-20230414232303710" style="zoom:67%;" /><img src="./assets/Screenshot 2023-04-14 at 23.34.34-1511699.png" alt="Screenshot 2023-04-14 at 23.34.34" style="zoom:23%;" />
 
