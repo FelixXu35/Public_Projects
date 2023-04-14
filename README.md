@@ -20,5 +20,5 @@ The time evolutions are shown below. (up: qiskit, down: Julia).
 
 <img src="./assets/image-20230414232303710-1510988.png" alt="image-20230414232303710" style="zoom:67%;" /><img src="./assets/Screenshot 2023-04-14 at 23.34.34-1511699.png" alt="Screenshot 2023-04-14 at 23.34.34" style="zoom:23%;" />
 
-Please find the more details through the links: [↗️qiskit](qiskit ./qiskit_evolution.ipynb ) and [↗️Julia](qiskit ./Julia_evolution.ipynb).
+Please find the more details through the links: [↗️qiskit](./qiskit_evolution.ipynb ) and [↗️Julia](./Julia_evolution.ipynb).
 
