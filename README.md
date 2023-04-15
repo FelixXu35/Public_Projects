@@ -20,5 +20,7 @@ The time evolutions are shown below. (up: qiskit, down: Julia).
 
 <img src="./assets/image-20230414232303710-1510988.png" alt="image-20230414232303710" width="400" height="300" /><img src="./assets/Screenshot 2023-04-14 at 23.34.34-1511699.png" alt="Screenshot 2023-04-14 at 23.34.34" width="400" height="300" />
 
+The qiskit results used 50 layers. However, there is still slight distortion. If I increase the number of layers (like to 1000, which is not friendly to NISQ), two results will be closer to each other.
+
 Please find the more details through the links: [↗️qiskit](./qiskit_evolution.ipynb ) and [↗️Julia](./Julia_evolution.ipynb).
 
