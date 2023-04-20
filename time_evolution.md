@@ -1,8 +1,8 @@
-# time_evolution
+# Time Evolution
 
 A mini project.
 
-### Problem
+## Problem
 
 Using quantum circuits to simulate a quantum system is one of the original purposes of quantum computing. Please describe how to construct a quantum circuit to simulate a physical system evolution in Hamiltonian:
 
@@ -12,7 +12,7 @@ For $t=\pi/2$, where the initial state is $\ket{\psi(t=0)}=\ket{10\cdots0}_N$
 
 In this project, Qiskit will be used, and the results will be compared with analytical ones.
 
-### Result
+## Result
 
 Trotter-Suzuki decomposition formula is used.
 
