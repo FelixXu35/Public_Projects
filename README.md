@@ -8,9 +8,13 @@ All use qiskit. For demonstration purposes.
 
 3. Comparison of optimizers
 
-## Completed:
+# Projects:
 
-1. [Time evolution](./time_evolution.md)
+1. [Time evolution](./time_evolution.md) ✅
+
+2. optimizers
+
+3. Stock Data Converter ✅
 
 ## Planed:
 
