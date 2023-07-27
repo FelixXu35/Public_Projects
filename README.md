@@ -8,6 +8,8 @@ A series of mini projects.
 
 3. Stock Data Converter ✅
 
+4. Visualization of T1 ✅
+
 ## Planed:
 
 2. Jaynes–Cummings model
