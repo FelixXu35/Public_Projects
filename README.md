@@ -36,4 +36,4 @@ The time evolutions are shown below. (up: qiskit, down: Julia).
 
 The qiskit results used 50 layers. However, there is still slight distortion. If I increase the number of layers (like to 1000, which is not friendly to NISQ), two results will be closer to each other.
 
-Please find the more details through the links: [↗️qiskit](./qiskit_evolution.ipynb ) and [↗️Julia](./Julia_evolution.ipynb).
+Please find the more details through the links: [↗️qiskit](./projects/1_evolution/qiskit_evolution.ipynb) and [↗️Julia](./projects/1_evolution/Julia_evolution.ipynb).
