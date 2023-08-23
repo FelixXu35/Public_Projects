@@ -2,11 +2,15 @@ A series of mini projects.
 
 # Table of Constents:
 
-1. [Time evolution](./time_evolution.md) ✅
+1. [Time evolution](./projects/1_evolution) ✅
 
-2. optimizers
+2. [optimizers](/projects/2_optimizers/random_state.py)
 
-3. Stock Data Converter 
+3. [Stock Data Converter](./projects/3_stocks_converter/converter.ipynb)
+
+4. [Visualization of T1 error](/projects/4_T1_error/T1_error.ipynb)
+
+5. [Integer QAOA](./projects/5_integer_QAOA/Integer_QAOA.ipynb)
 
 # Planed:
 
@@ -14,7 +18,7 @@ A series of mini projects.
 
 3. Comparing optimizers
 
-# Time evolution
+# 1. Time evolution
 
 ## Problem
 
@@ -37,3 +41,13 @@ The time evolutions are shown below. (up: qiskit, down: Julia).
 The qiskit results used 50 layers. However, there is still slight distortion. If I increase the number of layers (like to 1000, which is not friendly to NISQ), two results will be closer to each other.
 
 Please find the more details through the links: [↗️qiskit](./projects/1_evolution/qiskit_evolution.ipynb) and [↗️Julia](./projects/1_evolution/Julia_evolution.ipynb).
+
+# 5. Integer QAOA
+
+## Amplitude encoding
+
+The brute-force searching was firstly done with 0.1 accuracy. After doing QAOA, the expectation value of each qubit doesn't match the brute-force result. That means amplitude doesn't work.
+
+## Binary encoding
+
+The binary encoding and amplitude encoding are respectively discussed.
