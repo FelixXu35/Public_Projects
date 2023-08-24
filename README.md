@@ -1,5 +1,7 @@
 A series of mini projects.
 
+These projects are not going to be published anywhere.
+
 # Table of Constents:
 
 1. [Time evolution](./projects/1_evolution) ✅
@@ -44,10 +46,12 @@ Please find the more details through the links: [↗️qiskit](./projects/1_evol
 
 # 5. Integer QAOA
 
+The binary encoding and amplitude encoding are respectively discussed.
+
 ## Amplitude encoding
 
 The brute-force searching was firstly done with 0.1 accuracy. After doing QAOA, the expectation value of each qubit doesn't match the brute-force result. That means amplitude doesn't work.
 
 ## Binary encoding
 
-The binary encoding and amplitude encoding are respectively discussed.
+
