@@ -54,4 +54,12 @@ The brute-force searching was firstly done with 0.1 accuracy. After doing QAOA, 
 
 ## Binary encoding
 
+With a transformation matrix $M$, a binary vector $X$ can be used to represent an integer vector $x$.
 
+$$ MX = x $$
+
+And then an integer QUBO problem can transformed into a binary QUBO problem as
+
+$$ X(M^TQM)X $$
+
+In my notebook, a ramdom QUBO problem is transformed and then solved using QAOA.
