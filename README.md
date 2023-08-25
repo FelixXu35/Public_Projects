@@ -6,13 +6,13 @@ These projects are not going to be published anywhere.
 
 1. [Time evolution](./projects/1_evolution) ✅
 
-2. [optimizers](/projects/2_optimizers/random_state.py)
+2. [Behaviours of Different Optimizers](/projects/2_optimizers/random_state.py)
 
 3. [Stock Data Converter](./projects/3_stocks_converter/converter.ipynb)
 
 4. [Visualization of T1 error](/projects/4_T1_error/T1_error.ipynb)
 
-5. [Integer QAOA](./projects/5_integer_QAOA/Integer_QAOA.ipynb)
+5. [Integer QAOA](./projects/5_integer_QAOA/Integer_QAOA.ipynb) ✅
 
 # Planed:
 
