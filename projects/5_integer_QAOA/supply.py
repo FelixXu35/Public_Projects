@@ -32,7 +32,9 @@ def integer_QAOA_transformation(integers: list):
                 single_matrix[i][position] = int(2**power)
                 position += 1
         matrix = np.concatenate((matrix, single_matrix), axis=1)
-    return matrix
+    diag_element = [np.sum(matrix[:, i]) for i in range(np.shape(matrix)[1])]
+    diagonal = np.diag(diag_element)
+    return matrix, diagonal
 
 
 def print_result_cost(
