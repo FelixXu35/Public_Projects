@@ -16,9 +16,9 @@ These projects are not going to be published anywhere.
 
 # Planed:
 
-2. Jaynes–Cummings model
+* Jaynes–Cummings model
 
-3. Comparing optimizers
+* Calculating the ground state wavefunction of hydrogen.
 
 # 1. Time evolution
 
